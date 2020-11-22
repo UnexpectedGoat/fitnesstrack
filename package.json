@@ -1,0 +1,23 @@
+{
+  "name": "fitnesstracker",
+  "version": "1.0.0",
+  "description": "descript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnexpectedGoat/fitnesstracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnexpectedGoat/fitnesstracker/issues"
+  },
+  "homepage": "https://github.com/UnexpectedGoat/fitnesstracker#readme",
+  "dependencies": {
+    "server": "^1.0.31"
+  }
+}
